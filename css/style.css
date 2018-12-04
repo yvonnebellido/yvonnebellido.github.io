@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: black;
+  background-color: #5c467a;
   color: white;
   font-family: 'Lato', sans-serif;
   padding: 20px;
@@ -16,7 +16,7 @@ body {
 }
 
 h1{
-  background-color: darkgray;
+  background-color: ;
   margin: 3 auto;
   text-align: center;
   width: 45%;
@@ -49,7 +49,7 @@ h1{
 }
 
 .button {
-  background-color: darkgray;
+  background-color: #4e8f93;
   border: none;
   color: white;
   padding: 16px 32px;
